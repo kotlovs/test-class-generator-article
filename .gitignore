@@ -1,2 +1,13 @@
 *.class
 *.log
+
+.gradle
+build/
+
+gradle/wrapper/
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
